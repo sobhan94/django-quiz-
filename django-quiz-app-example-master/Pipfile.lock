@@ -1,0 +1,63 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "47264cabc5a4b96dd327d8bf7ecb78776262c578159ded62688c3cec0643eee2"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django": {
+            "hashes": [
+                "sha256:2d174e4a3f54708d0d5b6ff1bf54ae71652e83bb06d7576b3b20d916b29c3653",
+                "sha256:644c5cc2d064a38d439627549e6382a8bc28b80a243fe5cbba40b1efd2babdeb"
+            ],
+            "index": "pypi",
+            "version": "==1.8.5"
+        },
+        "django-model-utils": {
+            "hashes": [
+                "sha256:56513c17eb0ee004b9cb0200abb9b8a49f91e75f913549f3ae203b2faf2943ea",
+                "sha256:fae8d517590d99730ed3cfc3fdf9378e0b3815325a8911b963241ee8e9761fd7"
+            ],
+            "version": "==2.0.3"
+        },
+        "django-quiz-app": {
+            "hashes": [
+                "sha256:47c23c79fcef6f9b762e8e7146c671b51ef38040baba8b8bbd05d75dcd751b26"
+            ],
+            "index": "pypi",
+            "version": "==0.5.1"
+        },
+        "pillow": {
+            "hashes": [
+                "sha256:297f54e1ba355f11261e840e5cfe0c83fc9a1bc51bac6a1db8ee5d59011ad0fa",
+                "sha256:2ae336595f180df11bda85870a952c5fe2f6ec19ab60d866a052ce14d61beaa2",
+                "sha256:32776f3782d5321dc2720a7cc01497c47ffa4d0e07e7f762d8d9bc2d4e2e9d95",
+                "sha256:3dee995d5724b13735e0e2ad01b84cc89a956464ef6ac77a8836c3492ce2c10c",
+                "sha256:3e21a49d0b996617f9d3bccfc636375cb26ab8bcadce4d09e9be220021a0357f",
+                "sha256:441d54eb047454c57cee98d43527c98c9069b3a19ba059fa32a7aea9d8be106d",
+                "sha256:4a2c22ca804d5b6937d6645b7c6db3f4f64effa2224e9c2ba9e6cbd39f4b0eca",
+                "sha256:7731dd431d5c7593ea65c9cac464c55087c141996d1663541bc55cacf435049d",
+                "sha256:7fd84d516344e92692d0ecc2b60b4540f6b0a18872cc50808e64fcee421853cc",
+                "sha256:8673ec1be60bc21d17430d4188734fd628f5362168caa28cb04fa86b54fd3889",
+                "sha256:8f70b03173cdabfcaf914407cf1143827bfeee7206423349edfb979a913e639f",
+                "sha256:9f1d8a2d3409d47e5a8e750412f1dbaf3d75ee39079d2a3408872f6e073e75d1",
+                "sha256:dc2190820155a590b15f507f88118014eb2c2798a5e2801591b38f4c90df2d0f",
+                "sha256:ea42ea787f7521df0629ff3ed99ea132f62219bd968f920ea624146cd3563b08",
+                "sha256:fe5002e5efd30ec74f13406e838ad67a03c5cda60be6d913fa0363d5834fdaf1"
+            ],
+            "version": "==2.5.0"
+        }
+    },
+    "develop": {}
+}
